@@ -1,5 +1,5 @@
 # Google-Play-Store-App-Analysis-Python-Project
-# About this project
+
 This project analyzes the relationship pf app ratings and users'reviews.
 
 The largest Android APP store provides a rich sources of information about apps, concerning their customer-, business-, and technically-focussed attributes. Actionable insights can be drawn for developers to work on and capture the Android market.The Play Store apps data has enormous potential to drive app-making businesses to success. 
